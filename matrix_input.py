@@ -6,6 +6,7 @@ def matrix_input(row_number):
         arr.append(r1)
 
     arr = np.array(arr)
+    return arr
 '''
 Input:
 1 2 3
